@@ -1,7 +1,9 @@
 # MLPy_CMS
 ## Machine Learning by Python 
+|                                                                                            |                                                       |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------|
-|1. Python Basic |MLPy01_DataType_Format                                                     |                                                       |
+|__주차 강의 내용__                                                                             |__Code List__                                          |
+|1. Python Basic                                                                             |MLPy01_DataType_Format                                 |
 |   / Numerical Derivative / Machine Learning                                                |MLPy02_if for while                                    | 
 |  [Anaconda / Jupyter Lab / GitHub]                                                         |MLPy03_Function                                        |
 |                                                                                            |MLPy04_Class                                           |
@@ -46,5 +48,3 @@
 |14. Drug                                                                                    |MLPy38_ChemProp Drug [code]                            |
 |15. SOTA                                                                                    |MLPy39_SOTA Uni-Mol BioAct-Het [code]                  |
 |16. Final Term                                                                              |                                                       |
-
-! <img src="https://github.com/suleechem/MLPy_CMS/blob/226f1eb2be1198c112c67b82c6ab7b209460b508/Lec_list.png" style="width: 50%; height: 50%;">
