@@ -4,7 +4,6 @@
 
 |                                                                                    |                                                 |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------|
-|__주차 강의 내용__ |__Code List__ |
 |1. Python Basic |MLPy01_DataType_Format                                 |
 |   / Numerical Derivative / Machine Learning                                                                                         |MLPy02_if for while                                    | 
 |  [Anaconda / Jupyter Lab / GitHub]                                                                                           |MLPy03_Function                                        |
