@@ -1,8 +1,5 @@
 # MLPy_CMS
 ## Machine Learning by Python 
-
-
-|                                                                                    |                                                 |
 |--------------------------------------------------------------------------------------------|-------------------------------------------------------|
 |1. Python Basic |MLPy01_DataType_Format                                 |
 |   / Numerical Derivative / Machine Learning                                                                                         |MLPy02_if for while                                    | 
